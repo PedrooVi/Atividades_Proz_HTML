@@ -1,0 +1,16 @@
+.menu{
+    align-items: center;
+    text-align: center;
+    padding: 15%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#avancar{
+    border: none;
+    height: 20px;
+    width: 25%;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}

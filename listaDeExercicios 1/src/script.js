@@ -1,0 +1,1 @@
+document.getElementById("avancar").addEventListener("click", function(){window.open("../listaDeExercicios 1/exercicios/exercicio1.html")})
